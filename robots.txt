@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balajitaxiandtempotraveler.com/sitemap.xml
+
+# Optimize crawling rate
+Crawl-delay: 10 
